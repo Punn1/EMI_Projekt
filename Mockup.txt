@@ -1,0 +1,6 @@
+Mockup Ideen zum Design
+
+Wochenansicht, Tagesansicht
+Verschiedenen Stunden in verschiedenen Farben
+Stunde selbst als Abkürzung hinterlegt -> mehr info bei click oder als Subtext
+Generelle Übersicht der Uhrzeit und Sortierung nach Uhrzeit
