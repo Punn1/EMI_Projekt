@@ -1,0 +1,9 @@
+Plan:
+
+Stundenplan
+
+Zweck:
+
+-Verwaltung der Stunden für Universität oder Schule in einem übersichtlichen Zustand
+-Schneller Zugriff in der App und Sortierung für den zugehörigen Tag bzw. die nächste Stunde
+-Hinzufügen von Stundenkürzel (Titel), Stunde selbst (Untertitel), Lehrer (Beschreibung), Ort (Beschreibung)
